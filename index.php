@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h3>Cuerpo de la pagina</h3>
+        <h5>Nueva etiqueta</h5>
         <?php
         // put your code here
         ?>
