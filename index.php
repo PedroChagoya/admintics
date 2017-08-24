@@ -7,9 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Titulo de la pagina</title>
     </head>
     <body>
+        <h3>Cuerpo de la pagina</h3>
         <?php
         // put your code here
         ?>
